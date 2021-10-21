@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mahmoudghonem28" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudghonem28?logo=twitter&style=for-the-badge" alt="mahmoudghonem28" /></a> </p>
 
-- 🌱 I’m currently learning **Nest.js , Flutter , PostgreSQL**
+- 🌱 I’m currently learning **Nest.js , PostgreSQL**
 
-- 💬 Ask me about **Angular, Node.js, Express, MongoDB**
+- 💬 Ask me about **Angular, Node.js, Express, MongoDB, Flutter**
 
 - 📫 How to reach me **mahmoudghonem28@gmail.com**
 
