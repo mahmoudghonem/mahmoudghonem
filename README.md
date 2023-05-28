@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahmoudghonem28" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudghonem28?logo=twitter&style=for-the-badge" alt="mahmoudghonem28" /></a> </p>
 
-- 💬 Work With **JavaScript/TypeScript (Angular - Node.js - Express), MongoDB, Dart(Flutter)**
+- 💬 Work With **JavaScript/TypeScript (Angular - React - Node.js - Nest.js - Express), MongoDB, TypeOrm, Dart(Flutter)**
 
 - 📫 How to reach me **mahmoudghonem28@gmail.com**
 
